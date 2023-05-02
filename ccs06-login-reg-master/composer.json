@@ -1,0 +1,17 @@
+{
+    "name": "Veronica Jane M. Tibe/ccs06-login-reg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Veronica Jane M. Tibe",
+            "email": "tibe.veronicajane@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
